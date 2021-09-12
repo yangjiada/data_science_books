@@ -1,5 +1,5 @@
 # 数据科学书单
-- [x] [数据分析]([data_science_books/1. 数据分析.md at main · yangjiada/data_science_books (github.com)](https://github.com/yangjiada/data_science_books/blob/main/1. 数据分析.md))
+- [x] 数据分析 [查看](https://github.com/yangjiada/data_science_books/blob/main/1.%20%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.md)
 - [ ] 数据挖掘
 - [ ] 机器学习
 - [ ] 结构化查询语言（SQL）
